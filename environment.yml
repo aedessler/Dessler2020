@@ -1,7 +1,6 @@
 name: base
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - _ipyw_jlab_nb_ext_conf=0.1.0=py37_0
   - alabaster=0.7.12=py37_0
@@ -87,8 +86,6 @@ dependencies:
   - glob2=0.7=py_0
   - gmp=6.1.2=hb37e062_1
   - gmpy2=2.0.8=py37h6ef4df4_2
-  - google-auth=1.6.3=py_0
-  - google-auth-oauthlib=0.4.1=py_0
   - greenlet=0.4.15=py37h1de35cc_0
   - h5py=2.9.0=py37h3134771_0
   - hdf4=4.2.13=h39711bb_2
